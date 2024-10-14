@@ -1,0 +1,109 @@
+body {
+      background-color: #2d8fb4;  
+      font-family: arial, helvetica, sans-serif; 
+      padding:15px; 
+      line-height:1.4em
+    
+     
+}
+nav.list ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav.list ul li {
+  display: inline;
+}
+
+section.flex {
+    
+    display:flex;
+    background-color:white;
+    width: 80%;
+    
+    
+}
+
+figure.DearData {
+    
+    background-color:#2d8fb4;
+    flex:1
+    
+}
+
+figure.DearData { 
+
+background-color:#2d8fb4;
+margin:auto; 
+flex:1
+}
+
+
+figure.photo1 {
+    
+    background-color:#2d8fb4;
+    flex:1
+}
+
+figure.photo1 { 
+
+background-color:#2d8fb4;
+margin:auto;
+flex:1
+
+}
+img.photo1 {
+    width:70vw;
+    max-width: 500px;
+}
+
+figure.photo2 {
+    
+    background-color:#2d8fb4;
+    flex:1
+}
+
+figure.photo2 { 
+
+background-color:#2d8fb4;
+margin:auto; 
+flex:1
+
+}
+
+
+
+h1 {font-size:3.5em; }
+h2 {font-size:2em}
+
+p {
+    background:white;
+    padding: 2em;
+    margin-left: 5em;
+    line-height: 1.5em;
+}
+
+
+ol {
+    background: lavender;
+    
+}
+
+ul {
+    background: lavender;
+    
+}
+
+nav ul.list {
+    background: white;
+}
+
+section.resume {
+    background:#2d8fb4;
+    line-height:1.5em;
+
+}
+
+
+
