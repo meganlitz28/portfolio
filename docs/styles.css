@@ -6,6 +6,7 @@ body {
     
      
 }
+
 nav.list ul {
   list-style-type: none;
   margin: 0;
@@ -16,10 +17,12 @@ nav.list ul li {
   display: inline;
 }
 
+
 section.flex {
     
     display:flex;
     background-color:white;
+
     width: 80%;
     
     
@@ -29,7 +32,6 @@ figure.DearData {
     
     background-color:#2d8fb4;
     flex:1
-    
 }
 
 figure.DearData { 
@@ -53,6 +55,7 @@ margin:auto;
 flex:1
 
 }
+
 img.photo1 {
     width:70vw;
     max-width: 500px;
@@ -76,6 +79,8 @@ flex:1
 
 h1 {font-size:3.5em; }
 h2 {font-size:2em}
+h1 {font-size:2em; }
+
 
 p {
     background:white;
@@ -105,5 +110,7 @@ section.resume {
 
 }
 
-
-
+div.education {
+        margin-left:5em;
+    
+}
