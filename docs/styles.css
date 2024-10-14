@@ -1,0 +1,97 @@
+body {
+      background-color: #2d8fb4;  
+      font-family: arial, helvetica, sans-serif; 
+      padding:15px; 
+      line-height:1.4em
+    
+     
+}
+
+section.flex {
+    
+    display:flex;
+    background-color:white;
+    
+    
+}
+
+figure.DearData {
+    
+    background-color:#2d8fb4;
+    flex:1
+}
+
+figure.DearData { 
+
+background-color:#2d8fb4;
+margin:auto; 
+flex:1
+}
+
+
+figure.photo1 {
+    
+    background-color:#2d8fb4;
+    flex:1
+}
+
+figure.photo1 { 
+
+background-color:#2d8fb4;
+margin:auto;
+flex:1
+
+}
+
+
+figure.photo2 {
+    
+    background-color:#2d8fb4;
+    flex:1
+}
+
+figure.photo2 { 
+
+background-color:#2d8fb4;
+margin:auto; 
+flex:1
+
+}
+
+
+
+h1 {font-size:2em; }
+
+
+p {
+    background:white;
+    padding: 2em;
+    margin-left: 5em;
+    line-height: 1.5em;
+}
+
+
+ol {
+    background: lavender;
+    
+}
+
+ul {
+    background: lavender;
+    
+}
+
+nav ul.list {
+    background: white;
+}
+
+section.resume {
+    background:#2d8fb4;
+    line-height:1.5em;
+
+}
+
+div.education {
+        margin-left:5em;
+    
+}

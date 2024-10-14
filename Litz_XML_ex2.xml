@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry date="1858-19-08">
+    <date>August 19</date>
+
+    <locate1 N="New" V="Val">Newfoundland to Valentia</locate1>
+    <msg1 N="New" V="Val">“See to adjustment. Can you receive President’s message? Been here since
+        yesterday.” “We can’t read.” “Currents too weak to read.” “Very good currents, but can’t
+        read. Send C’s.” </msg1>
+    <msg2 V="Val" N="New"><locate2 V="Val" N="New">Valentia to Newfoundland</locate2> “C. C. C.
+        Faster.” (This in answer to Newfoundland’s request to send C’s for adjustment.) “Send
+        message fast.” (These words came in very good signals. The deflections on galvanometer very
+        strong.)</msg2>
+
+    <msg1 N="New" V="Val"><locate1 N="New" V="Val">Newfoundland to Valentia</locate1> “Have you
+        received message for Mclver? Send acknowledgment.”</msg1>
+
+    <msg2 V="Val" N="New"><locate2 V="Val" N="New">Valentia to Newfoundland</locate2> “No.”</msg2>
+
+    <msg1 N="New" V="Val"><locate1 N="New" V="Val">Newfoundland to Valentia</locate1> “D. C. Mclver,
+        Liverpool:—Arabia in collision with Europa, Cape Race, Saturday. Arabia on her way. Head
+        slightly injured. Europa lost bowsprit, cutwater; stern sprung. Will remain in St. John’s,
+        Newfoundland, ten days from sixteenth. Persia calls at <place>St. John’s</place> for mails
+        and passengers. No loss of life or limb. CUNARD.” <loc.><date date="1958-17-08">“New York,
+                August 17.”</date></loc.></msg1>
+
+    <msg2 V="Val" N="New"><locate2 V="Val" N="New">Valentia to Newfoundland</locate2> “Cunard. All
+        right. Go on.”</msg2>
+
+    <msg1 N="New" V="Val"><locate1 N="New" V="Val">Newfoundland to Valentia</locate1>
+        <msg3>THE PRESIDENT’S MESSAGE.</msg3> “Washington City. To <important><person>Her Majesty,
+                Victoria, Queen of Great Britain</person></important>:—The President cordially
+        reciprocates the congratulations of Her Majesty, the Queen, on the success of this great
+        international enterprise, accomplished by the science, skill, and indomitable energy of the
+        two countries. It is a triumph more glorious, because far more useful to mankind, than ever
+        was won by conqueror on the field of battle. May the Atlantic Telegraph, under the blessings
+        of Heaven, prove to be a bond of perpetual peace and friendship between the kindred nations,
+        and an instrument designed by Divine Providence to diffuse religion, civilization, liberty,
+        and law throughout the world. In this view will not all the nations of Christendom
+        spontaneously unite in the declaration, that it shall be forever neutral, and that its
+        communications shall be held sacred in passing to the place of their destination, even in
+        the midst of hostilities? JAMES BUCHANAN.”</msg1>
+
+    <msg2 V="Val" N="New"><locate2 V="Val" N="New">Valentia to Newfoundland</locate2> “President’s
+        all right.”</msg2>
+
+    <msg1 N="New" V="Val"><locate1  N="New" V="Val">Newfoundland to Valentia</locate1> “Your current
+        much stronger; but cannot read your signals. Repeat.” “Received. Send a few words.” “Your
+        currents very weak. Repeat.” </msg1>
+
+    <msg2 V="Val" N="New"><locate2 V="Val" N="New">Valentia to Newfoundland</locate2> “How now,—can
+        you read?”</msg2>
+
+    <msg1  N="New" V="Val"><locate1  N="New" V="Val">Newfoundland to Valentia</locate1> “Understand.
+        Better than ever. Please always commence by attack and give final signals, as we receive on
+        galvanometer. Relay won’t work.” “To Whitehouse. Please send large circular
+        galvanometer.”</msg1>
+
+    <msg2 V="Val" N="New"><locate2 V="Val" N="New">Valentia to Newfoundland</locate2> “Can you take
+        message for Field?” (<time time="hh 8, mm 0">At 8 P.M.</time>, Valentia had finished message
+        to <person>Mr. Field</person>. Currents were strong, but very irregular, and only the last
+        five words were readable. This was the message commencing “Directors have just met.”)</msg2>
+
+    <msg1 N="New" V="Val"><locate1 N="New" V="Val">Newfoundland to Valentia</locate1> “Strength of
+        your current constantly varies. Send Field’s message.” “Repeat all from beginning to
+        ‘tariff.’” “You should never send more than a dozen words at a time in long messages. Repeat
+        all of last message before ‘tariff.’” “Can’t read. Send dots and dashes.” “After ‘can
+        you.’”</msg1>
+
+    <msg2 V="Val" N="New"><locate2 V="Val" N="New">Valentia to Newfoundland</locate2> “How
+        now?”</msg2>
+
+    <msg1 N="New" V="Val"><locate1 N="New" V="Val">Newfoundland to Valentia</locate1> “Better.
+        Repeat message to Field.”</msg1>
+
+    <msg2 V="Val" N="New"><locate2 V="Val" N="New">Valentia to Newfoundland</locate2> “Try read on
+        galvanometer.”</msg2>
+
+    <msg1 N="New" V="Val"><locate1 N="New" V="Val">Newfoundland to Valentia</locate1> “Yes. Repeat
+        Field’s message.” "All to word ‘the.’” “Understand after « met.’”</msg1>
+
+    <extra>(The last ten messages refer to the following message to <person>Mr. Field</person>,
+        which, although commenced at <time time="hh 3, mm 55">3.55 P.M.</time> on the
+            <date>19th</date>, was not finished <time time="hh 1 mm 45">until 1.45 A.M.</time> of
+        the <date>20th</date>.)</extra>
+</entry>
