@@ -63,17 +63,14 @@ img.photo1 {
 }
 
 figure.photo2 {
-    
     background-color:#2d8fb4;
     flex:1
 }
 
 figure.photo2 { 
-
 background-color:#2d8fb4;
 margin:auto; 
 flex:1
-
 }
 
 figure.model{
