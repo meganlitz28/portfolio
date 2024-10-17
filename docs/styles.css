@@ -59,6 +59,7 @@ flex:1
 img.photo1 {
     width:70vw;
     max-width: 500px;
+    background-color:#2d8fb4;
 }
 
 figure.photo2 {
@@ -75,7 +76,9 @@ flex:1
 
 }
 
-
+figure.model{
+    
+}
 
 h1 {font-size:3.5em; }
 h2 {font-size:2em}
