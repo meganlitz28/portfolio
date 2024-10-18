@@ -74,9 +74,12 @@ flex:1
 }
 
 figure.model{
- 
-  width:120vw;  
-  height:300vh;
+ flex:2
+}
+
+iframe{
+ height:50vh;
+ width:auto;
 }
 
 h1 {font-size:3.5em; }
