@@ -91,7 +91,8 @@ figure.model{
 
 iframe{
  height:50vh;
- width:auto;
+ width:auto; 
+ text-align:center
 }
 
 h1 {font-size:3.5em; }
