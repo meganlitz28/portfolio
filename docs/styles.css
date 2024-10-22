@@ -33,7 +33,12 @@ figure.photo2{
 figure.photo3{
     flex:1
 }
-
+section.flexs {
+    
+    display:flex;
+    background-color:white;
+    width: 80%;  
+}
 
 section.flexbox {
     
