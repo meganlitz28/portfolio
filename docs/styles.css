@@ -22,77 +22,45 @@ section.flex {
     
     display:flex;
     background-color:white;
-
-    width: 80%;
+    width: 80%;  
+}
+figure.photo1{
+    flex:1
+}
+figure.photo2{
+    flex:1
+}
+figure.photo3{
+    flex:1
+}
+section.flexs {
     
+    display:flex;
+    background-color:white;
+    width: 80%;  
+}
+
+section.flexbox {
     
+    display:flex;
+    background-color:white;
+    width: 60%;  
 }
 
-figure.DearData {
-    
-    background-color:#2d8fb4;
-    flex:1;
-    height:50vh;
- width:auto;
+figure.deardata{
+    flex:1
 }
 
-figure.DearData { 
-
-background-color:#2d8fb4;
-margin:auto; 
-flex:1;
-height:50vh;
- width:auto;
-}
-
-
-figure.photo1 {
-    
-    background-color:#2d8fb4;
-    flex:1;
-    height:50vh;
- width:auto;
-}
-
-figure.photo1 { 
-
-background-color:#2d8fb4;
-margin:auto;
-flex:1;
-height:50vh;
- width:auto;
-
-}
-
-img.photo1 {
-    height:50vh;
- width:auto;
-    background-color:#2d8fb4;
-}
-
-figure.photo2 {
-    background-color:#2d8fb4;
-    flex:1;
-    height:50vh;
- width:auto;
-}
-
-figure.photo2 { 
-background-color:#2d8fb4;
-margin:auto; 
-flex:1;
-height:50vh;
- width:auto;
-}
+img{width:40%;
+max-width:50%}
 
 figure.model{
  flex:2
 }
 
 iframe{
+ width:60vw; 
  height:50vh;
- width:auto; 
- text-align:center
 }
 
 h1 {font-size:3.5em; }
