@@ -42,13 +42,7 @@ div.desc {
   text-align: center;
 }
 
-section.flexbox{
-    display:flex;
-}
 
-div.gallery { 
-            flex:1;
-           }
 
 figure.model{
  flex:2
