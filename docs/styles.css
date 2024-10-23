@@ -18,38 +18,28 @@ nav.list ul li {
 }
 
 
-section.flex {
-    
-    display:flex;
-    background-color:white;
-    width: 80%;  
-}
-figure.photo1{
-    flex:1
-}
-figure.photo2{
-    flex:1
-}
-figure.photo3{
-    flex:1
-}
-section.flexs {
-    
-    display:flex;
-    background-color:white;
-    width: 80%;  
+div.gallery {
+  margin: 5px;
+  border: 1px solid #fdfdfd;
+  float: left;
+  width: 50em;
 }
 
-section.flexbox {
-    
-    display:flex;
-    background-color:white;
-    width: 80%;  
+div.gallery:hover {
+  border: 1px solid #fdfdfd;
 }
 
-figure.deardata{
-    flex:1
+div.gallery img {
+  width: 100%;
+  height: auto;
 }
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
 
 img{width:40%;
 max-width:50%}
