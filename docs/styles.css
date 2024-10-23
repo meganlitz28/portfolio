@@ -23,6 +23,7 @@ div.gallery {
   border: 1px solid #fdfdfd;
   float: left;
   width: 50em;
+  line-height: 1.5em;
 }
 
 div.gallery:hover {
@@ -32,17 +33,17 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
+  line-height: 1.5em;
 }
 
 div.desc {
   padding: 15px;
+  line-height: 1.5em;
   text-align: center;
 }
 
 
 
-img{width:40%;
-max-width:50%}
 
 figure.model{
  flex:2
