@@ -18,16 +18,17 @@ nav.list ul li {
 }
 
 
+
 div.gallery {
   margin: 5px;
-  border: 1px solid #fdfdfd;
+  border: 2px solid #fdfdfd;
   float: left;
   width: 50em;
   line-height: 1.5em;
 }
 
 div.gallery:hover {
-  border: 1px solid #fdfdfd;
+  border: 2px solid #fdfdfd;
 }
 
 div.gallery img {
@@ -36,7 +37,7 @@ div.gallery img {
   line-height: 1.5em;
 }
 
-div.desc {
+div.desc { 
   padding: 15px;
   line-height: 1.5em;
   text-align: center;
