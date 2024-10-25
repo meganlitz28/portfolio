@@ -43,7 +43,10 @@ div.desc {
   text-align: center;
 }
 
-
+section.flex {
+   background-color:white;
+     display:flex;   
+            }
 
 figure.model{
  flex:2
