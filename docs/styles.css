@@ -48,10 +48,25 @@ section.flex {
      display:flex;   
             }
 
-figure.model{
- flex:2
+figure.water {
+flex:1;
 }
 
+figure.river {
+flex:1;
+}
+
+figure.tree {
+flex:1;
+}
+
+figure.report{
+ flex:1;
+}
+
+figure.model{
+ flex:2;
+}
 iframe{
  width:60vw; 
  height:50vh;
