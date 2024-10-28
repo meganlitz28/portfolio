@@ -48,20 +48,11 @@ section.flex {
      display:flex;   
             }
 
-figure.water {
-flex:1;
-}
 
-figure.river {
-flex:1;
-}
 
-figure.tree {
-flex:1;
-}
-
-figure.report{
+figure{
  flex:1;
+ background-color:white;
 }
 
 figure.model{
