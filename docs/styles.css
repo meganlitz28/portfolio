@@ -98,5 +98,9 @@ section.resume {
 
 section.education {
         margin-left:5em;
-    
 }
+
+section.analysis { width: 40%;}
+
+figure.screenCap { width:60vw; 
+height: 60vh}
