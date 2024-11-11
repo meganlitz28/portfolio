@@ -100,8 +100,22 @@ section.education {
         margin-left:5em;
 }
 
-section.analysis { width: 40%;}
+section.analysis { width: 30%;
+display:flex}
 
-figure.screenCap { width:60vw; 
-height: 60vh}
-section.tanalysis { width: 40%;}
+figure.antconc { flex:1;}
+
+img.text{min-width:50%}
+
+section.flexs{
+    display:flex;
+}
+figure.antconc{
+    flex:1;
+}
+
+p{
+    text-align:center;
+}
+
+
