@@ -118,4 +118,9 @@ p{
     text-align:center;
 }
 
-
+img.ant:hover {
+    transform: scale(1.2);}
+    
+figure.screenCap{
+ flex:2;
+}
