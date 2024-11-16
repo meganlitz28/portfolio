@@ -47,15 +47,13 @@ section.flex {
    background-color:white;
      display:flex;   
             }
-h1{
-  text-align: center;  
-}
+
 
 h2{
   text-align: center;  
 }
 h3{
-  text-align: center;  
+    text-align: center;
 }
 
 figure{
