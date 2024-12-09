@@ -67,6 +67,7 @@ figure.model{
 iframe{
  width:60vw; 
  height:50vh;
+ padding: 100px;
 }
 
 h1 {font-size:3.5em; }
@@ -85,7 +86,8 @@ p {
 
 div {
   background-color: lightgrey;
-  width: 300px;
+  width: 500px;
+  height: auto;
   border: 15px solid black;
   padding: 50px;
   margin: auto;
@@ -129,7 +131,7 @@ figure.antconc{
 }
 
 p{
-    text-align:center;
+    
 }
 
 img.ant:hover {
