@@ -45,7 +45,8 @@ div.desc {
 
 section.flex {
    background-color:white;
-     display:flex;   
+     display:flex;  
+     border: 12px solid black;
             }
 
 
@@ -130,9 +131,10 @@ figure.antconc{
     flex:1;
 }
 
-p{
-    
-}
+figure.tree { flex:1;}
+figure.river { flex:1;}
+figure.water { flex:1;}
+
 
 img.ant:hover {
     transform: scale(1.2);}
