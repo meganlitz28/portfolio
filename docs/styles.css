@@ -126,7 +126,20 @@ img.text{min-width:50%}
 
 section.flexs{
     display:flex;
+width:90%;
+
 }
+
+
+figure{
+flex:1;
+background-color:white;
+}
+
+figure img { max-width:400px; width:100%; }
+
+ul { padding-left: 5em; padding-right: 5em; }
+
 figure.antconc{
     flex:1;
 }
