@@ -1,9 +1,9 @@
 body {
-      background-color: #2d8fb4;  
-      font-family: arial, helvetica, sans-serif; 
+      background-color: darkgray;  
+      font-family: "georgia"; 
       padding:15px; 
       line-height:1.4em
-    
+      
      
 }
 
@@ -39,14 +39,14 @@ div.gallery img {
 
 div.desc { 
   padding: 15px;
-  line-height: 1.5em;
+  line-height: 1em;
   
 }
 
 section.flex {
-   background-color:white;
+   background-color:lightgrey;
      display:flex;  
-     border: 12px solid black;
+     border: 12px solid white;
             }
 
 
@@ -77,19 +77,20 @@ h1 {font-size:2em; }
 
 
 p {
-    background:white;
-    padding: 3em;
+    background:lightgrey;
+    padding: 2em;
   width: 300px;
-  border: 15px solid black;
+  border: 15px solid white;
   margin: 20px;
   line-height: 1.5em;
+  
 }
 
 div {
   background-color: lightgrey;
   width: 1000px;
   height: auto;
-  border: 15px solid black;
+  border: 15px solid white;
   padding: 50px;
   margin: auto;
 }
@@ -108,9 +109,15 @@ nav ul.list {
 }
 
 section.resume {
-    background:#2d8fb4;
+    background:darkgray;
     line-height:1.5em;
 
+}
+
+table {
+  width: 100%;
+  border: 2.5px solid;
+  color:white;
 }
 
 section.education {
