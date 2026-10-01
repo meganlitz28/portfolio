@@ -163,8 +163,36 @@ figure.screenCap{
  flex:2;
 }
 
+.controls-box {
+    border: 2px solid #333;
+    padding: 12px 16px;
+    margin: 20px 0;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+}
 
- 
+.hobby-highlight {
+    background-color: transparent;
+    transition: background-color 0.3s ease;
+    padding: 2px 4px;
+}
+
+.hobby-highlight.on {
+    background-color: #ffeb3b;
+    font-weight: bold;
+}
+
+.design-note {
+    display: none;
+    color: #555;
+    font-style: italic;
+    background-color: #e3f2fd;
+    padding: 4px 8px;
+}
+
+.design-note.on {
+    display: inline-block;
+}
 
 
 
