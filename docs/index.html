@@ -39,6 +39,63 @@
             </label>
         </fieldset>
        
+<h2>Dynamic SVG Showcase</h2>
+
+<div class="svg-container-box">
+    <svg id="interactive-svg" viewBox="0 0 600 250" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+        <!-- Background Card -->
+        <rect x="10" y="10" width="580" height="230" rx="12" fill="#2d3748" stroke="#ffffff" stroke-width="4"/>
+
+        <!-- Track line -->
+        <line x1="50" y1="60" x2="250" y2="60" stroke="#4a5568" stroke-width="6" stroke-linecap="round"/>
+        
+        <!-- Animated Pulsing/Sliding Indicator Dot -->
+        <circle cx="50" cy="60" r="10" fill="#48bb78">
+            <!-- Sliding Motion Animation -->
+            <animate 
+                attributeName="cx" 
+                values="50;250;50" 
+                dur="4s" 
+                repeatCount="indefinite" />
+            <!-- Pulsing Color Animation -->
+            <animate 
+                attributeName="fill" 
+                values="#48bb78;#ed8936;#48bb78" 
+                dur="4s" 
+                repeatCount="indefinite" />
+        </circle>
+        <text x="50" y="35" fill="#e2e8f0" font-size="14" font-family="Georgia">SMIL Path Animation</text>
+
+        <!-- Interactive Gear Icon (Rotates on hover via CSS) -->
+        <g class="svg-gear" transform="translate(150, 150)">
+            <circle cx="0" cy="0" r="28" fill="#4299e1"/>
+            <rect x="-6" y="-38" width="12" height="76" rx="3" fill="#4299e1"/>
+            <rect x="-38" y="-6" width="76" height="12" rx="3" fill="#4299e1"/>
+            <rect x="-6" y="-38" width="12" height="76" rx="3" fill="#4299e1" transform="rotate(45)"/>
+            <rect x="-6" y="-38" width="12" height="76" rx="3" fill="#4299e1" transform="rotate(-45)"/>
+            <circle cx="0" cy="0" r="14" fill="#2d3748"/>
+        </g>
+        <text x="100" y="215" fill="#e2e8f0" font-size="14" font-family="Georgia">Hover Gear to Spin</text>
+
+        <g id="svg-chart-group">
+            <text x="350" y="35" fill="#e2e8f0" font-size="14" font-family="Georgia">Interactive JS Bar Chart</text>
+            <rect class="svg-bar" id="bar1" x="350" y="100" width="35" height="100" rx="4" fill="#ed64a6" />
+            <rect class="svg-bar" id="bar2" x="400" y="70" width="35" height="130" rx="4" fill="#ed64a6" />
+            <rect class="svg-bar" id="bar3" x="450" y="120" width="35" height="80" rx="4" fill="#ed64a6" />
+            <rect class="svg-bar" id="bar4" x="500" y="50" width="35" height="150" rx="4" fill="#ed64a6" />
+            <!-- Chart Baseline -->
+            <line x1="340" y1="200" x2="550" y2="200" stroke="#cbd5e0" stroke-width="2"/>
+        </g>
+    </svg>
+
+    <!-- JS Controls for SVG -->
+    <div class="svg-controls">
+        <button type="button" id="randomize-svg-btn">Randomize SVG Chart</button>
+        <label for="svg-color-picker" style="color: #333; margin-left: 10px;">Change Bar Color:
+            <input type="color" id="svg-color-picker" value="#ed64a6"/>
+        </label>
+    </div>
+</div>
         <h2>Major Projects</h2>
         
         <section class="flex">
